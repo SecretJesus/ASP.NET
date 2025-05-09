@@ -1,3 +1,11 @@
+/*This code was written by team members - Maxwell W, (Add names here)
+
+For Team Project 
+CISS 411 DEA
+*/
+
+
+
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SmithSwimmingSchool.Data;
